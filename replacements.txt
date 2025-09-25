@@ -1,0 +1,1 @@
+regex:\baccount_key\s*=\s*["'][^"']*["']    account_key = "***REMOVED***"
